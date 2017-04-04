@@ -42,7 +42,7 @@ void loop(){
       Serial.println(l);
     }
     for(j=0;j<20;j++){
-      
+      //Why for here?
     }
   }
 }
